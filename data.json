@@ -2,7 +2,7 @@
     "partidas": [
         {
             "resultados": [
-                { "dupla": "Equipe A", "kills": 5, "posicao": 1 },
+                { "dupla": "Equipe A", "kills": 6, "posicao": 1 },
                 { "dupla": "Equipe B", "kills": 3, "posicao": 2 },
                 { "dupla": "Equipe C", "kills": 2, "posicao": 3 },
                 { "dupla": "Equipe D", "kills": 1, "posicao": 4 },
