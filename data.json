@@ -1,5 +1,52 @@
 {
     "partidas": [
-        {}
+        {
+            "resultados": [
+                { "dupla": "Equipe A", "kills": 5, "posicao": 1 },
+                { "dupla": "Equipe B", "kills": 4, "posicao": 2 },
+                { "dupla": "Equipe C", "kills": 3, "posicao": 3 },
+                { "dupla": "Equipe D", "kills": 2, "posicao": 4 },
+                { "dupla": "Equipe E", "kills": 1, "posicao": 5 },
+                { "dupla": "Equipe F", "kills": 0, "posicao": 6 },
+                { "dupla": "Equipe G", "kills": 0, "posicao": 7 },
+                { "dupla": "Equipe H", "kills": 0, "posicao": 8 }
+            ]
+        },
+        {
+            "resultados": [
+                { "dupla": "Equipe C", "kills": 6, "posicao": 1 },
+                { "dupla": "Equipe A", "kills": 5, "posicao": 2 },
+                { "dupla": "Equipe E", "kills": 3, "posicao": 3 },
+                { "dupla": "Equipe B", "kills": 2, "posicao": 4 },
+                { "dupla": "Equipe H", "kills": 1, "posicao": 5 },
+                { "dupla": "Equipe D", "kills": 0, "posicao": 6 },
+                { "dupla": "Equipe F", "kills": 0, "posicao": 7 },
+                { "dupla": "Equipe G", "kills": 0, "posicao": 8 }
+            ]
+        },
+        {
+            "resultados": [
+                { "dupla": "Equipe B", "kills": 7, "posicao": 1 },
+                { "dupla": "Equipe F", "kills": 6, "posicao": 2 },
+                { "dupla": "Equipe D", "kills": 4, "posicao": 3 },
+                { "dupla": "Equipe A", "kills": 2, "posicao": 4 },
+                { "dupla": "Equipe G", "kills": 1, "posicao": 5 },
+                { "dupla": "Equipe E", "kills": 0, "posicao": 6 },
+                { "dupla": "Equipe H", "kills": 0, "posicao": 7 },
+                { "dupla": "Equipe C", "kills": 0, "posicao": 8 }
+            ]
+        },
+        {
+            "resultados": [
+                { "dupla": "Equipe D", "kills": 8, "posicao": 1 },
+                { "dupla": "Equipe G", "kills": 5, "posicao": 2 },
+                { "dupla": "Equipe C", "kills": 4, "posicao": 3 },
+                { "dupla": "Equipe E", "kills": 3, "posicao": 4 },
+                { "dupla": "Equipe H", "kills": 2, "posicao": 5 },
+                { "dupla": "Equipe B", "kills": 1, "posicao": 6 },
+                { "dupla": "Equipe A", "kills": 0, "posicao": 7 },
+                { "dupla": "Equipe F", "kills": 0, "posicao": 8 }
+            ]
+        }
     ]
 }
