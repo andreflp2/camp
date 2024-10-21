@@ -1,13 +1,5 @@
 {
     "partidas": [
-        {
-            "resultados": [
-                { "dupla": "", "kills": 0, "posicao": 0 },
-                { "dupla": "", "kills": 0, "posicao": 0 },
-                { "dupla": "", "kills": 0, "posicao": 0 },
-                { "dupla": "", "kills": 0, "posicao": 0 },
-                { "dupla": "", "kills": 0, "posicao": 0 }
-            ]
-        }
+        {}
     ]
 }
